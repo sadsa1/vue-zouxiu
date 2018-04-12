@@ -1,0 +1,61 @@
+@charset "utf-8";
+html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,img,input,figure{margin:0;padding:0}
+*{ box-sizing:border-box;}
+body{font-family: "Î¢ÈíÑÅºÚ";display:flex;flex-direction: column;}
+ul,ol,li{list-style:none;}
+b,strong{font-weight:100;}
+em,i{font-style:normal;}
+h1,h2,h3,h4,h5,h6{font-weight:100;font-size:16px;}
+a,u{text-decoration: none;}
+input{outline:none;border:none;}
+img{display:block;border:0;}
+html,body{height:100%;}
+html{font-size:26.67vw;}
+
+
+
+
+
+
+
+
+
+
+// css reset
+
+@charset "utf-8";
+/* CSS Document */
+
+body,h1,h3,h2,h4,h5,h6,p,dl,dd,ul,li,ol,td,form,input,fieldset,legend{
+	margin:0; padding:0;
+}  
+
+li{list-style:none;}
+
+a{text-decoration:none; font-size:12px; color:#fff;}
+
+body{
+	font-size:14px; 
+	font-family:"Î¢ÈíÑÅºÚ"; 
+	color:#666; 
+	background:#fff;
+}
+
+img{vertical-align:top; display:block; border:none;}
+
+a,input{outline:none;}
+
+em,i{font-style:normal;}
+
+b,strong,h1,h2,h3,h4,h5,h6{font-weight:normal;}
+
+.clear:after{content:""; display:block; clear:both; height:0; visibility:hidden;}
+
+table{border-collapse:collapse;}
+
+.border0{border:none;}
+
+.fl{float:left;}
+
+.fr{float:right;}
+
